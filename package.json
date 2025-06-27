@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "app",
   "version": "0.1.0",
   "private": true,
@@ -43,3 +44,9 @@
 }
 
 
+=======
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
+>>>>>>> 5c55d529b3d608ec88e910097c84a73e1943ab29
